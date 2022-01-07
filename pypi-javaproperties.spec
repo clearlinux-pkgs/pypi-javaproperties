@@ -17,13 +17,13 @@ BuildRequires : buildreq-distutils3
 Provides: javaproperties
 Provides: javaproperties-python
 Provides: javaproperties-python3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(setuptools)
 BuildRequires : pypi(wheel)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 .. image:: http://www.repostatus.org/badges/latest/active.svg
