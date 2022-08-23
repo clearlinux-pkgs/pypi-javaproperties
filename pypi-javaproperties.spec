@@ -4,7 +4,7 @@
 #
 Name     : pypi-javaproperties
 Version  : 0.8.1
-Release  : 25
+Release  : 26
 URL      : https://files.pythonhosted.org/packages/68/52/d7db7b671e2d4596c759fb526864837677c1562462e45f0ba46aef9a28c5/javaproperties-0.8.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/68/52/d7db7b671e2d4596c759fb526864837677c1562462e45f0ba46aef9a28c5/javaproperties-0.8.1.tar.gz
 Summary  : Read & write Java .properties files
