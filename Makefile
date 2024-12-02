@@ -1,5 +1,5 @@
 PKG_NAME := pypi-javaproperties
-URL = https://files.pythonhosted.org/packages/68/52/d7db7b671e2d4596c759fb526864837677c1562462e45f0ba46aef9a28c5/javaproperties-0.8.1.tar.gz
+URL = https://files.pythonhosted.org/packages/62/b6/366850e576cc9052b0f5ace2b554d061be9370d95c08b69d0de7212591b2/javaproperties-0.8.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
